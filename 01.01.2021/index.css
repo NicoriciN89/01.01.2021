@@ -1,0 +1,43 @@
+.phone {
+    background-color: #777;
+
+    width: 400%;
+    height: 50%;
+
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+
+}
+
+.app {
+    width: 10%;
+    height: 10%;
+
+    background-color: black;
+
+
+
+
+}
+
+.app header {
+    background-color: #123;
+    height: 5%;
+}
+
+.app footer {
+
+    background-color: #123;
+    height: 8%;
+}
+
+.app main {
+    height: 84%;
+    background-color: #321;
+
+}
